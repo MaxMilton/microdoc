@@ -60,7 +60,7 @@
     "stylelint-config-standard": "33.0.0",
     "terser": "5.17.7",
     "tsm": "2.3.0",
-    "typescript": "5.0.4",
+    "typescript": "5.5.4",
     "uvu": "0.5.6"
   }
 }

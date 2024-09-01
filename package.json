@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@maxmilton/stylelint-config": "0.0.12",
-    "@types/node": "18.16.19",
+    "@types/node": "18.19.47",
     "@types/remarkable": "2.0.3",
     "@typescript-eslint/eslint-plugin": "5.59.8",
     "@typescript-eslint/parser": "5.59.8",
